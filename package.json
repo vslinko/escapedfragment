@@ -1,0 +1,8 @@
+{
+    "name": "escapedfragment",
+    "version": "0.0.1",
+    "dependencies": {
+        "phantom-proxy": "0.1.x",
+        "express": "3.0.x"
+    }
+}
